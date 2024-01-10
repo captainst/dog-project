@@ -161,4 +161,8 @@ cython_debug/
 
 .vscode
 
+bottleneck_features/*
+data/*
+models/*
+
 saved_models
