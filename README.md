@@ -20,7 +20,8 @@ This repo contains the implementations of the Dog Breed Project, which is the ca
 This is the implementation of the final project of the Udacity Data Scientist Program. 
 This project uses Convolutional Neural Networks (CNNs) to build pipelines to process images. Given an image of a dog, the designed algorithm should identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 The datasets and pre-generated image features through the CNNs are provided by Udacity. In order to complete the project, I used some other Models and 3rd party libraries.
-I followed the sample jupyter notebook provided by Udacity to complete this project.
+I followed the sample jupyter notebook provided by Udacity to complete this project. <br>
+Bonus: I have created a medium blog post [here](https://medium.com/@quchen.ch/dog-breed-classification-3aa8cd09cca9). Feel free to check it out !
 
 Here is a sample output as the final result:
 
